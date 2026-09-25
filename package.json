@@ -1,0 +1,7 @@
+{
+  "name": "uber-clone",
+  "private": true,
+  "scripts": {
+    "build": "cd uber_users_app && flutter build web --release --base-href /"
+  }
+}

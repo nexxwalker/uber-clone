@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd uber_users_app && flutter build web --release --base-href /",
+  "outputDirectory": "uber_users_app/build/web",
+  "framework": null,
+  "cleanUrls": true
+}
